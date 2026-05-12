@@ -1,1 +1,292 @@
-[]
+```json
+[
+  {
+    "kode": 1,
+    "nama": "GMIM El Elyon Malalayang",
+    "lat": 1.449130403405914,
+    "lng": 124.7977547675942
+  },
+  {
+    "kode": 2,
+    "nama": "Gereja GMAHK Jemaat Malalayang",
+    "lat": 1.4587749310818092,
+    "lng": 124.80482900807169
+  },
+  {
+    "kode": 3,
+    "nama": "GPDI Bukit Karmel Malalayang",
+    "lat": 1.450754724782972,
+    "lng": 124.79962008267572
+  },
+  {
+    "kode": 4,
+    "nama": "GPdI Glory Manibang",
+    "lat": 1.4543172553892487,
+    "lng": 124.80164260992238
+  },
+  {
+    "kode": 5,
+    "nama": "GMIM El Manibang",
+    "lat": 1.4551860109908354,
+    "lng": 124.80243654377348
+  },
+  {
+    "kode": 6,
+    "nama": "GMIM Victory Minanga Indah",
+    "lat": 1.4478172528249817,
+    "lng": 124.78665921109045
+  },
+  {
+    "kode": 7,
+    "nama": "GMIM Betlehem Maruasey",
+    "lat": 1.4507317443701362,
+    "lng": 124.78812004144704
+  },
+  {
+    "kode": 8,
+    "nama": "GMIM Galilea Malalayang Dua",
+    "lat": 1.4536626972774942,
+    "lng": 124.7914302450004
+  },
+  {
+    "kode": 9,
+    "nama": "GBI Harmagedon",
+    "lat": 1.4477306435958681,
+    "lng": 124.80965764942874
+  },
+  {
+    "kode": 10,
+    "nama": "GMIM Kalvari Malalayang",
+    "lat": 1.449011178428132,
+    "lng": 124.81788771515443
+  },
+  {
+    "kode": 11,
+    "nama": "GMIM Nafiri Malalayang 1",
+    "lat": 1.4517963391878252,
+    "lng": 124.81468535494987
+  },
+  {
+    "kode": 12,
+    "nama": "GMIM El-Roi Malalayang",
+    "lat": 1.4419630580783667,
+    "lng": 124.81642898247475
+  },
+  {
+    "kode": 13,
+    "nama": "GMIM Bukit Hermon",
+    "lat": 1.4448055911906181,
+    "lng": 124.81720718587525
+  },
+  {
+    "kode": 14,
+    "nama": "GMIM Sion Malalayang",
+    "lat": 1.4583824243453563,
+    "lng": 124.81848188276601
+  },
+  {
+    "kode": 15,
+    "nama": "GMIM Sangkakala Malalayang Satu",
+    "lat": 1.4526033500733349,
+    "lng": 124.81724610229334
+  },
+  {
+    "kode": 16,
+    "nama": "GPdI Bukit Sion Aer Trang",
+    "lat": 1.4440368658115792,
+    "lng": 124.82221378282229
+  },
+  {
+    "kode": 17,
+    "nama": "Gereja GPdI Elim",
+    "lat": 1.4573063836398235,
+    "lng": 124.82151337158004
+  },
+  {
+    "kode": 18,
+    "nama": "Gereja KGPM Air Hidup Malalayang 1 Timur",
+    "lat": 1.4485551077871128,
+    "lng": 124.8244974486225
+  },
+  {
+    "kode": 19,
+    "nama": "Gereja KGPM Sidang Anugerah Malalayang",
+    "lat": 1.45864906555543,
+    "lng": 124.81933227799175
+  },
+  {
+    "kode": 20,
+    "nama": "Gereja GIDI Jemaat Anugerah Manado",
+    "lat": 1.447225505724052,
+    "lng": 124.83086291338512
+  },
+  {
+    "kode": 21,
+    "nama": "GMIM Pniel Bahu",
+    "lat": 1.4513418921758758,
+    "lng": 124.82571905574312
+  },
+  {
+    "kode": 22,
+    "nama": "GMIM Imanuel Bahu",
+    "lat": 1.4605177520115007,
+    "lng": 124.8235455352328
+  },
+  {
+    "kode": 23,
+    "nama": "Gereja Kampus Universitas Sam Ratulangi",
+    "lat": 1.4609479851660392,
+    "lng": 124.82701903690746
+  },
+  {
+    "kode": 24,
+    "nama": "GMIM Musafir Kleak",
+    "lat": 1.4566548226991047,
+    "lng": 124.83076485132393
+  },
+  {
+    "kode": 25,
+    "nama": "St. Joseph the Worker Catholic Church",
+    "lat": 1.462192040417549,
+    "lng": 124.83206831827782
+  },
+  {
+    "kode": 26,
+    "nama": "GMIM Yerusalem Batukota",
+    "lat": 1.450074862062743,
+    "lng": 124.82966515027346
+  },
+  {
+    "kode": 27,
+    "nama": "GPdI Lidia Jambore Winangun",
+    "lat": 1.4368160401935268,
+    "lng": 124.83658182442596
+  },
+  {
+    "kode": 28,
+    "nama": "GPdI Mahanaim",
+    "lat": 1.4371592549688734,
+    "lng": 124.83884560878522
+  },
+  {
+    "kode": 29,
+    "nama": "GMIM Bethel Winangun",
+    "lat": 1.4389271692071435,
+    "lng": 124.83775954458623
+  },
+  {
+    "kode": 30,
+    "nama": "GMIM Kasih Kristus Winangun",
+    "lat": 1.441288553769903,
+    "lng": 124.83355153975312
+  },
+  {
+    "kode": 31,
+    "nama": "GMIM Eben Haezer Winangun",
+    "lat": 1.4481144584706567,
+    "lng": 124.83846059183534
+  },
+  {
+    "kode": 32,
+    "nama": "GPdI Jemaat Winangun",
+    "lat": 1.4441658949270268,
+    "lng": 124.84072232698506
+  },
+  {
+    "kode": 33,
+    "nama": "GMIM Sion Winangun",
+    "lat": 1.4423647753283524,
+    "lng": 124.8400883251139
+  },
+  {
+    "kode": 34,
+    "nama": "GPdI Mahanaim 2",
+    "lat": 1.4375042603055035,
+    "lng": 124.8388250043065
+  },
+  {
+    "kode": 35,
+    "nama": "GMIM Bukit Moria Winangun",
+    "lat": 1.448912427495909,
+    "lng": 124.83260190584224
+  },
+  {
+    "kode": 36,
+    "nama": "GMIM Bukit Karmel Batukota",
+    "lat": 1.4479488084060637,
+    "lng": 124.82874405595236
+  },
+  {
+    "kode": 37,
+    "nama": "GMIM Lembah Yordan Batukota Bawah",
+    "lat": 1.4457179220159808,
+    "lng": 124.82749951099657
+  },
+  {
+    "kode": 38,
+    "nama": "GPdI Tubuh Kristus Batukota",
+    "lat": 1.4474260591488635,
+    "lng": 124.82866899060458
+  },
+  {
+    "kode": 39,
+    "nama": "GMIM Bukit Maesa Karombasan Winangun",
+    "lat": 1.4485369052109494,
+    "lng": 124.8415513334737
+  },
+  {
+    "kode": 40,
+    "nama": "Gereja GIDI Jemaat Anugerah Manado 2",
+    "lat": 1.4470704032086148,
+    "lng": 124.83111678814406
+  },
+  {
+    "kode": 41,
+    "nama": "GMIM Bukit Kalvari Karombasan",
+    "lat": 1.4518432075746102,
+    "lng": 124.8330157922094
+  },
+  {
+    "kode": 42,
+    "nama": "Gereja Kristen Oikoumene Anugerah puri indah",
+    "lat": 1.4351857692621925,
+    "lng": 124.82956832076081
+  },
+  {
+    "kode": 43,
+    "nama": "GMIM Air Terang Malalayang 1 Timur",
+    "lat": 1.4457945594957085,
+    "lng": 124.82613943213194
+  },
+  {
+    "kode": 44,
+    "nama": "GPdI Bukit Sion Aer Trang",
+    "lat": 1.4436427870084967,
+    "lng": 124.82290790831793
+  },
+  {
+    "kode": 45,
+    "nama": "GMIM Bukit Zaitun Malalayang",
+    "lat": 1.4481501447511267,
+    "lng": 124.82318149364094
+  },
+  {
+    "kode": 46,
+    "nama": "Gereja Advent Winangun",
+    "lat": 1.4419763398012142,
+    "lng": 124.84168874259738
+  },
+  {
+    "kode": 47,
+    "nama": "GMIM Sion Winangun",
+    "lat": 1.4420936146010288,
+    "lng": 124.84083618988204
+  },
+  {
+    "kode": 48,
+    "nama": "GBI Haleluya Winangun",
+    "lat": 1.442775250211863,
+    "lng": 124.83869375154545
+  }
+]
+```
