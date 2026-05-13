@@ -1,290 +1,579 @@
-[
-    {
-        "kode": 1,
-        "Nama_Gereja": "GMIM El Elyon Malalayang",
-        "Latitude": 1.449130403405914,
-        "Longitude": 124.7977547675942
-    },
-    {
-        "kode": 2,
-        "Nama_Gereja": "Gereja GMAHK Jemaat Malalayang",
-        "Latitude": 1.4587749310818092,
-        "Longitude": 124.80482900807168
-    },
-    {
-        "kode": 3,
-        "Nama_Gereja": "GPDI Bukit Karmel Malalayang",
-        "Latitude": 1.450754724782972,
-        "Longitude": 124.79962008267572
-    },
-    {
-        "kode": 4,
-        "Nama_Gereja": "GPdI Glory Manibang",
-        "Latitude": 1.4543172553892487,
-        "Longitude": 124.80164260992238
-    },
-    {
-        "kode": 5,
-        "Nama_Gereja": "GMIM El Manibang",
-        "Latitude": 1.4551860109908354,
-        "Longitude": 124.80243654377348
-    },
-    {
-        "kode": 6,
-        "Nama_Gereja": "GMIM Victory Minanga Indah",
-        "Latitude": 1.4478172528249815,
-        "Longitude": 124.78665921109044
-    },
-    {
-        "kode": 7,
-        "Nama_Gereja": "GMIM Betlehem Maruasey",
-        "Latitude": 1.4507317443701362,
-        "Longitude": 124.78812004144704
-    },
-    {
-        "kode": 8,
-        "Nama_Gereja": "GMIM Galilea Malalayang Dua",
-        "Latitude": 1.4536626972774942,
-        "Longitude": 124.7914302450004
-    },
-    {
-        "kode": 9,
-        "Nama_Gereja": "GBI Harmagedon",
-        "Latitude": 1.447730643595868,
-        "Longitude": 124.80965764942874
-    },
-    {
-        "kode": 10,
-        "Nama_Gereja": "GMIM Kalvari Malalayang",
-        "Latitude": 1.449011178428132,
-        "Longitude": 124.81788771515444
-    },
-    {
-        "kode": 11,
-        "Nama_Gereja": "GMIM Nafiri Malalayang 1",
-        "Latitude": 1.4517963391878252,
-        "Longitude": 124.81468535494987
-    },
-    {
-        "kode": 12,
-        "Nama_Gereja": "GMIM El-Roi Malalayang",
-        "Latitude": 1.4419630580783669,
-        "Longitude": 124.81642898247476
-    },
-    {
-        "kode": 13,
-        "Nama_Gereja": "GMIM Bukit Hermon",
-        "Latitude": 1.444805591190618,
-        "Longitude": 124.81720718587523
-    },
-    {
-        "kode": 14,
-        "Nama_Gereja": "GMIM Sion Malalayang",
-        "Latitude": 1.4583824243453565,
-        "Longitude": 124.818481882766
-    },
-    {
-        "kode": 15,
-        "Nama_Gereja": "GMIM Sangkakala Malalayang Satu",
-        "Latitude": 1.4526033500733349,
-        "Longitude": 124.81724610229334
-    },
-    {
-        "kode": 16,
-        "Nama_Gereja": "GPdI Bukit Sion Aer Trang",
-        "Latitude": 1.4440368658115792,
-        "Longitude": 124.82221378282227
-    },
-    {
-        "kode": 17,
-        "Nama_Gereja": "Gereja GPdI Elim",
-        "Latitude": 1.4573063836398237,
-        "Longitude": 124.82151337158004
-    },
-    {
-        "kode": 18,
-        "Nama_Gereja": "Gereja KGPM Air Hidup Malalayang 1 Timur",
-        "Latitude": 1.4485551077871128,
-        "Longitude": 124.8244974486225
-    },
-    {
-        "kode": 19,
-        "Nama_Gereja": "Gereja KGPM Sidang Anugerah Malalayang",
-        "Latitude": 1.45864906555543,
-        "Longitude": 124.81933227799176
-    },
-    {
-        "kode": 20,
-        "Nama_Gereja": "Gereja GIDI Jemaat Anugerah Manado",
-        "Latitude": 1.447225505724052,
-        "Longitude": 124.83086291338512
-    },
-    {
-        "kode": 21,
-        "Nama_Gereja": "GMIM Pniel Bahu",
-        "Latitude": 1.4513418921758758,
-        "Longitude": 124.82571905574312
-    },
-    {
-        "kode": 22,
-        "Nama_Gereja": "GMIM Imanuel Bahu",
-        "Latitude": 1.4605177520115007,
-        "Longitude": 124.8235455352328
-    },
-    {
-        "kode": 23,
-        "Nama_Gereja": "Gereja Kampus Universitas Sam Ratulangi",
-        "Latitude": 1.4609479851660392,
-        "Longitude": 124.82701903690746
-    },
-    {
-        "kode": 24,
-        "Nama_Gereja": "GMIM Musafir Kleak",
-        "Latitude": 1.4566548226991047,
-        "Longitude": 124.83076485132392
-    },
-    {
-        "kode": 25,
-        "Nama_Gereja": "St. Joseph the Worker Catholic Church",
-        "Latitude": 1.462192040417549,
-        "Longitude": 124.83206831827782
-    },
-    {
-        "kode": 26,
-        "Nama_Gereja": "GMIM Yerusalem Batukota",
-        "Latitude": 1.450074862062743,
-        "Longitude": 124.82966515027346
-    },
-    {
-        "kode": 27,
-        "Nama_Gereja": "GPdI Lidia Jambore Winangun",
-        "Latitude": 1.4368160401935268,
-        "Longitude": 124.83658182442596
-    },
-    {
-        "kode": 28,
-        "Nama_Gereja": "GPdI Mahanaim",
-        "Latitude": 1.4371592549688734,
-        "Longitude": 124.83884560878522
-    },
-    {
-        "kode": 29,
-        "Nama_Gereja": "GMIM Bethel Winangun",
-        "Latitude": 1.4389271692071437,
-        "Longitude": 124.83775954458623
-    },
-    {
-        "kode": 30,
-        "Nama_Gereja": "GMIM Kasih Kristus Winangun",
-        "Latitude": 1.441288553769903,
-        "Longitude": 124.83355153975312
-    },
-    {
-        "kode": 31,
-        "Nama_Gereja": "GMIM Eben Haezer Winangun",
-        "Latitude": 1.448114458470657,
-        "Longitude": 124.83846059183534
-    },
-    {
-        "kode": 32,
-        "Nama_Gereja": "GPdI Jemaat Winangun",
-        "Latitude": 1.4441658949270268,
-        "Longitude": 124.84072232698506
-    },
-    {
-        "kode": 33,
-        "Nama_Gereja": "GMIM Sion Winangun",
-        "Latitude": 1.4423647753283524,
-        "Longitude": 124.8400883251139
-    },
-    {
-        "kode": 34,
-        "Nama_Gereja": "GPdI Mahanaim 2",
-        "Latitude": 1.4375042603055035,
-        "Longitude": 124.8388250043065
-    },
-    {
-        "kode": 35,
-        "Nama_Gereja": "GMIM Bukit Moria Winangun",
-        "Latitude": 1.448912427495909,
-        "Longitude": 124.83260190584224
-    },
-    {
-        "kode": 36,
-        "Nama_Gereja": "GMIM Bukit Karmel Batukota",
-        "Latitude": 1.4479488084060637,
-        "Longitude": 124.82874405595236
-    },
-    {
-        "kode": 37,
-        "Nama_Gereja": "GMIM Lembah Yordan Batukota Bawah",
-        "Latitude": 1.4457179220159808,
-        "Longitude": 124.82749951099656
-    },
-    {
-        "kode": 38,
-        "Nama_Gereja": "GPdI Tubuh Kristus Batukota",
-        "Latitude": 1.4474260591488637,
-        "Longitude": 124.82866899060458
-    },
-    {
-        "kode": 39,
-        "Nama_Gereja": "GMIM Bukit Maesa Karombasan Winangun",
-        "Latitude": 1.4485369052109494,
-        "Longitude": 124.8415513334737
-    },
-    {
-        "kode": 40,
-        "Nama_Gereja": "Gereja GIDI Jemaat Anugerah Manado 2",
-        "Latitude": 1.4470704032086148,
-        "Longitude": 124.83111678814406
-    },
-    {
-        "kode": 41,
-        "Nama_Gereja": "GMIM Bukit Kalvari Karombasan",
-        "Latitude": 1.4518432075746102,
-        "Longitude": 124.8330157922094
-    },
-    {
-        "kode": 42,
-        "Nama_Gereja": "Gereja Kristen Oikoumene Anugerah puri indah",
-        "Latitude": 1.4351857692621923,
-        "Longitude": 124.8295683207608
-    },
-    {
-        "kode": 43,
-        "Nama_Gereja": "GMIM Air Terang Malalayang 1 Timur",
-        "Latitude": 1.4457945594957085,
-        "Longitude": 124.82613943213194
-    },
-    {
-        "kode": 44,
-        "Nama_Gereja": "GPdI Bukit Sion Aer Trang",
-        "Latitude": 1.443642787008497,
-        "Longitude": 124.82290790831792
-    },
-    {
-        "kode": 45,
-        "Nama_Gereja": "GMIM Bukit Zaitun Malalayang",
-        "Latitude": 1.448150144751127,
-        "Longitude": 124.82318149364094
-    },
-    {
-        "kode": 46,
-        "Nama_Gereja": "Gereja Advent Winangun",
-        "Latitude": 1.4419763398012142,
-        "Longitude": 124.84168874259738
-    },
-    {
-        "kode": 47,
-        "Nama_Gereja": "GMIM Sion Winangun",
-        "Latitude": 1.4420936146010288,
-        "Longitude": 124.84083618988204
-    },
-    {
-        "kode": 48,
-        "Nama_Gereja": "GBI Haleluya Winangun",
-        "Latitude": 1.442775250211863,
-        "Longitude": 124.83869375154543
-    }
-]
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "nama_gereja": "GMIM El Elyon Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.7977547675942,
+                    1.449130403405914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "nama_gereja": "Gereja GMAHK Jemaat Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.80482900807172,
+                    1.458774931081809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "nama_gereja": " GPDI Bukit Karmel Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.7996200826757,
+                    1.450754724782972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "nama_gereja": "GPdI Glory Manibang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8016426099224,
+                    1.4543172553892487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "nama_gereja": "GMIM El Manibang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8024365437735,
+                    1.455186010990835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "nama_gereja": "GMIM Victory Minanga Indah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.78665921109048,
+                    1.447817252824982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "nama_gereja": "GMIM Betlehem Maruasey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.788120041447,
+                    1.450731744370136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "nama_gereja": "GMIM Galilea Malalayang Dua"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.7914302450004,
+                    1.453662697277494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "nama_gereja": "GBI Harmagedon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8096576494287,
+                    1.447730643595868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "nama_gereja": "GMIM Kalvari Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8178877151544,
+                    1.449011178428132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "nama_gereja": "GMIM Nafiri Malalayang 1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8146853549499,
+                    1.451796339187825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 12,
+                "nama_gereja": "GMIM El-Roi Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8164289824747,
+                    1.441963058078367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 13,
+                "nama_gereja": "GMIM BUKIT HERMON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8172071858752,
+                    1.444805591190618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 14,
+                "nama_gereja": "GMIM Sion Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.818481882766,
+                    1.458382424345356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 15,
+                "nama_gereja": "GMIM Sangkakala Malalayang Satu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8172461022933,
+                    1.4526033500733353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 16,
+                "nama_gereja": "GPdI Bukit Sion Aer Trang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8222137828223,
+                    1.444036865811579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 17,
+                "nama_gereja": "Gereja GPdI Elim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.82151337158,
+                    1.457306383639823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 18,
+                "nama_gereja": "Gereja Kgpm Air Hidup Malalayang 1 Timur"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.82449744862248,
+                    1.448555107787113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 19,
+                "nama_gereja": "Gereja KGPM Sidang Anugerah - Malalayang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.81933227799172,
+                    1.45864906555543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 20,
+                "nama_gereja": "Gereja GIDI Jemaat Anugerah Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8308629133851,
+                    1.447225505724052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 21,
+                "nama_gereja": "GMIM Pniel Bahu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.82571905574308,
+                    1.451341892175876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 22,
+                "nama_gereja": "GMIM Imanuel Bahu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8235455352328,
+                    1.4605177520115007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23,
+                "nama_gereja": "Gereja Kampus Universitas Sam Ratulangi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8270190369075,
+                    1.460947985166039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 24,
+                "nama_gereja": "GMIM Musafir Kleak"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.83076485132392,
+                    1.456654822699105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 25,
+                "nama_gereja": "St. Joseph the Worker Catholic Church"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8320683182778,
+                    1.462192040417549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 26,
+                "nama_gereja": "GMIM Yerusalem Batukota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8296651502735,
+                    1.4500748620627433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 27,
+                "nama_gereja": "GPdI Lidia Jambore Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.836581824426,
+                    1.436816040193527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 28,
+                "nama_gereja": "GPdI Mahanaim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8388456087852,
+                    1.437159254968873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 29,
+                "nama_gereja": "GMIM Bethel Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8377595445862,
+                    1.438927169207143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30,
+                "nama_gereja": "GMIM Kasih Kristus Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8335515397531,
+                    1.4412885537699027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 31,
+                "nama_gereja": "GMIM Eben Haezer Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8384605918353,
+                    1.448114458470657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 32,
+                "nama_gereja": "GPdI Jemaat Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8407223269851,
+                    1.4441658949270273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 33,
+                "nama_gereja": "GMIM Sion Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8400883251139,
+                    1.442364775328352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 34,
+                "nama_gereja": "GPdI Mahanaim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8388250043065,
+                    1.437504260305503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 35,
+                "nama_gereja": "GMIM Bukit Moria Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8326019058422,
+                    1.448912427495909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 36,
+                "nama_gereja": "GMIM Bukit Karmel Batukota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8287440559524,
+                    1.447948808406064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 37,
+                "nama_gereja": "GMIM Lembah Yordan Batukota Bawah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8274995109966,
+                    1.445717922015981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39,
+                "nama_gereja": "GPdI Tubuh Kristus Batukota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8286689906046,
+                    1.447426059148863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40,
+                "nama_gereja": "GMIM Bukit Maesa Karombasan - Winangun"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8415513334737,
+                    1.448536905210949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41,
+                "nama_gereja": "Gereja GIDI Jemaat Anugerah Manado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8311167881441,
+                    1.447070403208615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 42,
+                "nama_gereja": "GMIM Bukit Kalvari Karombasan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.8330157922094,
+                    1.45184320757461
+                ]
+            }
+        }
+    ]
+}
